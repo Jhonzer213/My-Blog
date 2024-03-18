@@ -38,3 +38,11 @@ body
 {
     font-size: 20px;
 }
+
+#footer
+{
+    background: #09ad6b;
+    color: white;
+    text-align: center;
+    padding: 0.5em;
+}
