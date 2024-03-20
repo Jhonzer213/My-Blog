@@ -2,7 +2,7 @@
 
 Un blog interesante para aprender sobre [Git-GitHub](https://platzi.com/cursos/git-github/) en [Platzi.com](https://platzi.com/new-home/)
 
-Este cuerso de Git-GitHub es muy interesante porque con el he aprendido todo sobre:
+Este curso de Git-GitHub es muy interesante porque con el se aprende todo sobre:
 
 * Todos los comandos necesarios
 * Crear repositorios
